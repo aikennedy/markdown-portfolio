@@ -1,1 +1,1 @@
-[LinkedIn profile](https://www.linkedin.com/in/aikennedy
+[LinkedIn profile](https://www.linkedin.com/in/aikennedy)
