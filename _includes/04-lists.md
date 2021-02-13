@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+<details>
+<summary>foods</summary>
+
+Favourite foods:
+
+- Spaghetti Bolognese 
+- Sweet & Sour Chicken
+
+</details>
